@@ -1,32 +1,24 @@
-<h1 align="center">👋 Bonjour, je suis Aicha Diakite</h1>
+<h1 align="center"> 👋 Bonjour, je suis Aicha DIAKITE </h1>
 
 <p align="center">
-🎓 Mastère Data Science pour la Connaissance Client – ENSAI <br>
-📊 Quantitative Analyst – Corporate Asset Valuation | Arval BNP Paribas
+📊 Quantitative Analyst — Corporate Asset Valuation | Arval BNP Paribas <br>
+🎓 Mastère Data Science pour la Connaissance Client — ENSAI
 </p>
 
 <p align="center">
-  <a href="mailto:aicha.diakite1@outlook.fr">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/aicha-diakite">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Aichadia">
-    <img src="https://img.shields.io/badge/GitHub-Aichadia-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="mailto:aicha.diakite1@outlook.fr">
+<img src="https://img.shields.io/badge/email-aicha.diakite1%40outlook.fr-red">
+</a>
+
+<a href="https://linkedin.com/in/aicha-diakite">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue">
+</a>
+
+<a href="https://github.com/Aichadia">
+<img src="https://komarev.com/ghpvc/?username=Aichadia&color=green">
+</a>
 </p>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Aichadia&show_icons=true&theme=default&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aichadia&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aichadia&theme=default&hide_border=true" />
-</p>
 
 # 🧠 Qui suis-je ?
 
@@ -174,7 +166,7 @@ Infrastructure as Code :
 
 | Projet | Description | Technologies | Lien |
 |------|-------------|-------------|------|
-| 🧠 Analyse NLP des avis bancaires (Mémoire M2) | Analyse de plus de 34 000 avis clients bancaires : web scraping avec Selenium, pipeline NLP complet, classification thématique (Zero-Shot CamemBERT) et analyse de sentiment pour identifier les drivers d’insatisfaction client. | Python, Selenium, NLP, CamemBERT, Transformers, Scikit-learn | Voir le repo |
+| 🧠 Analyse NLP des avis bancaires (Mémoire M2) | Analyse de plus de 34 000 avis clients bancaires : web scraping avec Selenium, pipeline NLP complet, classification thématique (Zero-Shot CamemBERT) et analyse de sentiment pour identifier les drivers d’insatisfaction client. | Python, Selenium, NLP, CamemBERT, Transformers, spaCy | Voir le repo |
 | 🦠 Analyse de l’impact du COVID-19 sur les revenus et l'emploi des hommes (Mémoire M1) | Effets de la COVID-19 sur l’emploi et les revenus : analyse économétrique sur données de panel. Étude des dynamiques sectorielles et identification des facteurs de résilience économique. | R, Econométrie de panel, Difference-in-Differences, Propensity Score Matching | Voir le repo |
 | 🏨 Prédiction prix & annulation hôtelière | Modélisation machine learning pour prédire l’annulation de réservations et le prix des hôtels (Random Forest, XGBoost, régression logistique) avec validation croisée. | Python, Scikit-learn, XGBoost, Pandas | Voir le repo |
 | 📊 Segmentation client – Analyse Factorielle Multiple | Analyse multivariée du comportement d’achat client via MFA et clustering pour identifier différents profils consommateurs. | R, FactoMineR, Statistiques multivariées, Clustering | Voir le repo |
