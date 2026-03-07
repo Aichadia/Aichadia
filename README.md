@@ -163,30 +163,36 @@ Infrastructure as Code :
 
 ---
 
-# 💻 Stack technique
+# 🚀 Projets en vitrine
 
-### Langages
+| Projet | Description | Technologies | Lien |
+|------|-------------|-------------|------|
+| 🧠 Analyse NLP des avis bancaires (Mémoire M2) | Analyse de plus de 34 000 avis clients bancaires : web scraping avec Selenium, pipeline NLP complet, classification thématique (Zero-Shot CamemBERT) et analyse de sentiment pour identifier les drivers d’insatisfaction client. | Python, Selenium, NLP, CamemBERT, Transformers, Scikit-learn | Voir le repo |
+| 🦠 Analyse de l’impact du COVID-19 sur les revenus et l'emploi des hommes (Mémoire M1) | Effets de la COVID-19 sur l’emploi et les revenus : analyse économétrique sur données de panel. Étude des dynamiques sectorielles et identification des facteurs de résilience économique. | R, Econométrie de panel, Difference-in-Differences, Propensity Score Matching | Voir le repo |
+| 🏨 Prédiction prix & annulation hôtelière | Modélisation machine learning pour prédire l’annulation de réservations et le prix des hôtels (Random Forest, XGBoost, régression logistique) avec validation croisée. | Python, Scikit-learn, XGBoost, Pandas | Voir le repo |
+| 📊 Segmentation client – Analyse Factorielle Multiple | Analyse multivariée du comportement d’achat client via MFA et clustering pour identifier différents profils consommateurs. | R, FactoMineR, Statistiques multivariées, Clustering | Voir le repo |
+| ☁️ Architecture serverless AWS | Application cloud utilisant AWS Lambda et SQS avec déploiement automatisé via Infrastructure as Code (OpenTofu / CDKTF). | Python, AWS Lambda, SQS, boto3, OpenTofu | Voir le repo |
+| 📈 Modélisation du comportement d’achat | Modélisation probabiliste du comportement client avec Poisson-Gamma et binomiale négative pour analyser l’hétérogénéité et les lois inter-achat. | Python, Probabilistic Modeling, Lifetimes, Pandas | Voir le repo |
+---
 
-Python • R • SQL • SAS
 
-### Data Science
+---
+## 💻 Stack technique
 
-Scikit-learn  
-XGBoost  
-Statistiques multivariées  
-Econométrie
-
-### Cloud
-
-AWS Lambda  
-Amazon SQS  
-OpenTofu
-
-### Data Tools
-
-Dataiku DSS  
-Tableau  
-VS code
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAS-0C2340?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dataiku-00B140?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenTofu-FFD700?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
