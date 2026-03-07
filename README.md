@@ -34,3 +34,133 @@ Je développe des **modèles statistiques et des analyses quantitatives** pour a
 💡 Mon approche : **rigueur statistique, compréhension métier et impact business**.
 
 ---
+
+# 🔎 Ce que je sais faire
+
+## 📈 Modélisation statistique & Machine Learning
+
+### Modélisation probabiliste du comportement client
+
+- Modèles Poisson-Gamma
+- Binomiale négative
+- Modélisation des lois inter-achat
+- Analyse de la Customer Lifetime Value (CLV)
+
+Applications :
+
+- modélisation du comportement d’achat
+- analyse de la fréquence d’achat
+- marketing analytics
+
+---
+
+### Machine Learning supervisé
+
+- Random Forest
+- XGBoost
+- Support Vector Machines (SVM)
+- K-Nearest Neighbors (KNN)
+- Régression logistique
+- Régression linéaire
+
+Validation des modèles :
+
+- cross-validation
+- AUC / ROC
+
+Applications :
+
+- classification
+- scoring
+- segmentation client
+- prédiction de comportement
+
+---
+
+## 📊 Econométrie & Causal Inference
+
+- Régressions économétriques
+- Econométrie des données de panel
+  - Fixed effects
+  - Random effects
+
+Méthodes d’évaluation d’impact :
+
+- Difference-in-Differences (DiD)
+- Propensity Score Matching
+
+Applications :
+
+- évaluation de politiques économiques
+- analyse d’impact d’événements économiques
+- analyse de causalité
+
+---
+
+## ⏳ Séries temporelles & prévision
+
+- ARIMA / SARIMA
+- FARIMA
+- GARCH
+- analyse de dépendance temporelle
+- prévision de séries temporelles
+
+Applications :
+
+- prévision économique
+- analyse de volatilité
+- analyse de tendances
+
+---
+
+## 🧠 NLP & Text Mining
+
+- Web scraping (Selenium)
+- nettoyage et préparation de texte
+- vectorisation TF-IDF
+- classification thématique
+- Zero-Shot Classification (CamemBERT / Transformers)
+- analyse de sentiment
+
+Applications :
+
+- analyse d’avis clients
+- identification des drivers d’insatisfaction
+
+---
+
+## 📊 Analyse de données & statistiques multivariées
+
+- Analyse exploratoire de données (EDA)
+- Statistiques multivariées
+  - ACP
+  - Analyse Factorielle Multiple
+
+- segmentation client
+- clustering
+- analyse du comportement d’achat
+---
+
+## ☁️ Cloud & Data Engineering
+
+- AWS Lambda
+- Amazon SQS
+- boto3
+- serverless architecture
+
+Infrastructure as Code :
+
+- OpenTofu
+- CDKTF
+
+---
+
+## 🛠️ Outils
+
+Langages :
+
+Python • R • SQL • SAS
+
+Data tools :
+
+Dataiku DSS • Tableau • Jupyter Notebook
