@@ -154,13 +154,49 @@ Infrastructure as Code :
 - CDKTF
 
 ---
+### 📊 Visualisation
 
-## 🛠️ Outils
+- Tableau
+- Matplotlib
+- Seaborn
+- Streamlit
 
-Langages :
+---
+
+# 💻 Stack technique
+
+### Langages
 
 Python • R • SQL • SAS
 
-Data tools :
+### Data Science
 
-Dataiku DSS • Tableau • Jupyter Notebook
+Scikit-learn  
+XGBoost  
+Statistiques multivariées  
+Econométrie
+
+### Cloud
+
+AWS Lambda  
+Amazon SQS  
+OpenTofu
+
+### Data Tools
+
+Dataiku DSS  
+Tableau  
+VS code
+
+---
+
+# 🎓 Certifications
+
+- SAS Base Programming Certification  
+- Dataiku Core Designer  
+- Dataiku Advanced Designer
+
+Voir les certifications sur mon profil LinkedIn :
+🔗 https://linkedin.com/in/aicha-diakite
+
+---
