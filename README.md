@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🟢 Disponible-CDI%20Data%20Scientist-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🟢 Disponible en septembre 2026-CDI%20Data%20Scientist-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
@@ -28,134 +28,6 @@
 Data Scientist en fin de Mastère à l'**ENSAI**, je combine **rigueur statistique** et **sens du business** au quotidien chez Arval BNP Paribas, où je développe des modèles quantitatifs pour la valorisation d'actifs automobiles.
 
 Mon fil conducteur : **transformer des données complexes en décisions concrètes** — qu'il s'agisse de comprendre le comportement client, de prévoir des tendances de marché ou d'automatiser une analyse NLP à grande échelle.
-
----
-
-# 🔎 Ce que je sais faire
-
-## 📈 Modélisation statistique & Machine Learning
-
-### Modélisation probabiliste du comportement client
-
-- Modèles Poisson-Gamma
-- Binomiale négative
-- Modélisation des lois inter-achat
-- Analyse de la Customer Lifetime Value (CLV)
-
-Applications :
-
-- modélisation du comportement d’achat
-- analyse de la fréquence d’achat
-- marketing analytics
-
----
-
-### Machine Learning supervisé
-
-- Random Forest
-- XGBoost
-- Support Vector Machines (SVM)
-- K-Nearest Neighbors (KNN)
-- Régression logistique
-- Régression linéaire
-
-Validation des modèles :
-
-- cross-validation
-- AUC / ROC
-
-Applications :
-
-- classification
-- scoring
-- segmentation client
-- prédiction de comportement
-
----
-
-## 📊 Econométrie & Causal Inference
-
-- Régressions économétriques
-- Econométrie des données de panel
-  - Fixed effects
-  - Random effects
-
-Méthodes d’évaluation d’impact :
-
-- Difference-in-Differences (DiD)
-- Propensity Score Matching
-
-Applications :
-
-- évaluation de politiques économiques
-- analyse d’impact d’événements économiques
-- analyse de causalité
-
----
-
-## ⏳ Séries temporelles & prévision
-
-- ARIMA / SARIMA
-- FARIMA
-- GARCH
-- analyse de dépendance temporelle
-- prévision de séries temporelles
-
-Applications :
-
-- prévision économique
-- analyse de volatilité
-- analyse de tendances
-
----
-
-## 🧠 NLP & Text Mining
-
-- Web scraping (Selenium)
-- nettoyage et préparation de texte
-- vectorisation TF-IDF
-- classification thématique
-- Zero-Shot Classification (CamemBERT / Transformers)
-- analyse de sentiment
-
-Applications :
-
-- analyse d’avis clients
-- identification des drivers d’insatisfaction
-
----
-
-## 📊 Analyse de données & statistiques multivariées
-
-- Analyse exploratoire de données (EDA)
-- Statistiques multivariées
-  - ACP
-  - Analyse Factorielle Multiple
-
-- segmentation client
-- clustering
-- analyse du comportement d’achat
----
-
-## ☁️ Cloud & Data Engineering
-
-- AWS Lambda
-- Amazon SQS
-- boto3
-- serverless architecture
-
-Infrastructure as Code :
-
-- OpenTofu
-- CDKTF
-
----
-### 📊 Visualisation
-
-- Tableau
-- Matplotlib
-- Seaborn
-- Streamlit
 
 ---
 ## 🚀 Projets
@@ -170,7 +42,18 @@ Infrastructure as Code :
 | 👥 | [**Segmentation client – Analyse Factorielle Multiple**](https://github.com/Aichadia) | Profilage de consommateurs par MFA + clustering → identification de segments actionnables | R · FactoMineR · Clustering |
 | 📈 | [**Modélisation probabiliste du comportement d'achat**](https://github.com/Aichadia) | Modèles Poisson-Gamma et Binomiale négative pour modéliser la CLV et les lois inter-achat | Python · Lifetimes · Probabilistic Modeling |
 
+---
 
+## 🔎 Ce que je sais faire
+
+| Domaine | Compétences clés |
+|---------|-----------------|
+| 📈 **ML supervisé** | Random Forest, XGBoost, SVM, Régression logistique — classification, scoring, prédiction |
+| 🧠 **NLP & Text Mining** | Zero-Shot (CamemBERT), TF-IDF, analyse de sentiment, web scraping (Selenium) |
+| 📊 **Stats & Économétrie** | Données de panel, DiD, PSM, ACP, Analyse Factorielle Multiple, clustering |
+| ⏳ **Séries temporelles** | ARIMA/SARIMA, GARCH, prévision, analyse de volatilité |
+| 🎯 **Comportement client** | CLV, modèles Poisson-Gamma, segmentation, marketing analytics |
+| ☁️ **Cloud & Data Eng.** | AWS Lambda, SQS, boto3, Infrastructure as Code (OpenTofu) |
 
 ---
 ## 🛠️ Stack technique
@@ -188,6 +71,8 @@ Infrastructure as Code :
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
 
 **Visualisation & Déploiement**
 
