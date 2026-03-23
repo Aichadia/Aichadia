@@ -1,36 +1,33 @@
-<h1 align="center"> 👋 Bonjour, je suis Aicha DIAKITE </h1>
+<h1 align="center">👋 Aicha DIAKITE</h1>
 
 <p align="center">
-📊 Quantitative Analyst — Corporate Asset Valuation | Arval BNP Paribas <br>
-🎓 Mastère Data Science pour la Connaissance Client — ENSAI
+  <strong>Data Scientist · NLP · ML · Analyse Quantitative</strong><br/>
+  🎓 Mastère Data Science pour la connaissance client — ENSAI &nbsp;|&nbsp; 💼 Quantitative Analyst — Arval BNP Paribas
 </p>
 
 <p align="center">
-<a href="mailto:aicha.diakite1@outlook.fr">
-<img src="https://img.shields.io/badge/email-aicha.diakite1%40outlook.fr-red">
-</a>
-
-<a href="https://linkedin.com/in/aicha-diakite">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue">
-</a>
-
-<a href="https://github.com/Aichadia">
-<img src="https://komarev.com/ghpvc/?username=Aichadia&color=green">
-</a>
+  <a href="mailto:aicha.diakite1@outlook.fr">
+    <img src="https://img.shields.io/badge/📧 Email-aicha.diakite1@outlook.fr-red?style=flat-square"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/aicha-diakite">
+    <img src="https://img.shields.io/badge/LinkedIn-Aicha%20Diakite-blue?style=flat-square&logo=linkedin"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Aichadia&color=brightgreen&style=flat-square"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢 Disponible-CDI%20Data%20Scientist-brightgreen?style=for-the-badge"/>
+</p>
 
-# 🧠 Qui suis-je ?
+---
 
-🎓 Data Scientist en formation à **l’ENSAI – Data Science pour la Connaissance Client**
+## 🧠 En quelques mots
 
-💼 **Quantitative Analyst – Corporate Asset Valuation chez Arval BNP Paribas**
+Data Scientist en fin de Mastère à l'**ENSAI**, je combine **rigueur statistique** et **sens du business** au quotidien chez Arval BNP Paribas, où je développe des modèles quantitatifs pour la valorisation d'actifs automobiles.
 
-Je développe des **modèles statistiques et des analyses quantitatives** pour améliorer la compréhension du marché automobile et optimiser la valorisation d’actifs.
-
-🚀 Mon objectif : transformer les données en **outils d’aide à la décision stratégique**.
-
-💡 Mon approche : **rigueur statistique, compréhension métier et impact business**.
+Mon fil conducteur : **transformer des données complexes en décisions concrètes** — qu'il s'agisse de comprendre le comportement client, de prévoir des tendances de marché ou d'automatiser une analyse NLP à grande échelle.
 
 ---
 
@@ -161,47 +158,58 @@ Infrastructure as Code :
 - Streamlit
 
 ---
+## 🚀 Projets
 
-# 🚀 Projets en vitrine
+> Cliquez sur chaque projet pour accéder au repo complet avec le code, les résultats et la démarche.
 
-| Projet | Description | Technologies | Lien |
-|------|-------------|-------------|------|
-| 🧠 Analyse NLP des avis bancaires (Mémoire M2) | Analyse de plus de 34 000 avis clients bancaires : web scraping avec Selenium, pipeline NLP complet, classification thématique (Zero-Shot CamemBERT) et analyse de sentiment pour identifier les drivers d’insatisfaction client. | Python, Selenium, NLP, CamemBERT, Transformers, spaCy | Voir le repo |
-| 🦠 Analyse de l’impact du COVID-19 sur les revenus et l'emploi des hommes (Mémoire M1) | Effets de la COVID-19 sur l’emploi et les revenus : analyse économétrique sur données de panel. Étude des dynamiques sectorielles et identification des facteurs de résilience économique. | R, Econométrie de panel, Difference-in-Differences, Propensity Score Matching | Voir le repo |
-| 🏨 Prédiction prix & annulation hôtelière | Modélisation machine learning pour prédire l’annulation de réservations et le prix des hôtels (Random Forest, XGBoost, régression logistique) avec validation croisée. | Python, Scikit-learn, XGBoost, Pandas | Voir le repo |
-| 📊 Segmentation client – Analyse Factorielle Multiple | Analyse multivariée du comportement d’achat client via MFA et clustering pour identifier différents profils consommateurs. | R, FactoMineR, Statistiques multivariées, Clustering | Voir le repo |
-| ☁️ Architecture serverless AWS | Application cloud utilisant AWS Lambda et SQS avec déploiement automatisé via Infrastructure as Code (OpenTofu / CDKTF). | Python, AWS Lambda, SQS, boto3, OpenTofu | Voir le repo |
-| 📈 Modélisation du comportement d’achat | Modélisation probabiliste du comportement client avec Poisson-Gamma et binomiale négative pour analyser l’hétérogénéité et les lois inter-achat. | Python, Probabilistic Modeling, Lifetimes, Pandas | Voir le repo |
+| # | Projet | Ce que j'ai fait | Stack |
+|---|--------|-----------------|-------|
+| 🧠 | [**NLP – Analyse d'avis bancaires**](https://github.com/Aichadia) | Pipeline NLP sur 34 000+ avis : scraping, classification thématique Zero-Shot (CamemBERT), analyse de sentiment → identification des drivers d'insatisfaction | Python · Selenium · HuggingFace · spaCy |
+| 🦠 | [**Économétrie – Impact COVID sur l'emploi**](https://github.com/Aichadia) | Analyse causale sur données de panel : DiD, Propensity Score Matching → mesure de l'effet sectoriel de la crise | R · Économétrie de panel · DiD · PSM |
+| 🏨 | [**ML – Prédiction hôtelière**](https://github.com/Aichadia) | Prédiction d'annulations et de prix : comparaison Random Forest / XGBoost / Régression logistique avec cross-validation | Python · Scikit-learn · XGBoost · Pandas |
+| 👥 | [**Segmentation client – Analyse Factorielle Multiple**](https://github.com/Aichadia) | Profilage de consommateurs par MFA + clustering → identification de segments actionnables | R · FactoMineR · Clustering |
+| 📈 | [**Modélisation probabiliste du comportement d'achat**](https://github.com/Aichadia) | Modèles Poisson-Gamma et Binomiale négative pour modéliser la CLV et les lois inter-achat | Python · Lifetimes · Probabilistic Modeling |
+
+
+
+---
+## 🛠️ Stack technique
+
+**Langages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0C2340?style=flat-square)
+
+**Machine Learning & Stats**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Visualisation & Déploiement**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-00B140?style=flat-square)
+
 ---
 
+## 🎓 Certifications
+
+| Certification | Organisme |
+|--------------|-----------|
+| SAS Base Programming | SAS Institute |
+| Core Designer | Dataiku |
+| Advanced Designer | Dataiku |
+
+🔗 [Voir les certifications sur LinkedIn](https://linkedin.com/in/aicha-diakite)
 
 ---
-## 💻 Stack technique
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SAS-0C2340?style=flat-square"/>
-<img src="https://img.shields.io/badge/Dataiku-00B140?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenTofu-FFD700?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<p align="center">
+  <em>N'hésitez pas à explorer mes projets ci-dessus ou à me contacter sur LinkedIn 🤝</em>
 </p>
-
----
-
-# 🎓 Certifications
-
-- SAS Base Programming Certification  
-- Dataiku Core Designer  
-- Dataiku Advanced Designer
-
-Voir les certifications sur mon profil LinkedIn :
-🔗 https://linkedin.com/in/aicha-diakite
-
----
