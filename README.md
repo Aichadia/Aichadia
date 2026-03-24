@@ -40,7 +40,7 @@ Mon fil conducteur : **transformer des données complexes en décisions concrèt
 | 🦠 | [**Économétrie – Impact COVID sur l'emploi**](https://github.com/Aichadia) | Analyse causale sur données de panel : DiD, Propensity Score Matching → mesure de l'effet sectoriel de la crise | R · Économétrie de panel · DiD · PSM |
 | 🏨 | [**ML – Prédiction hôtelière**](https://github.com/Aichadia) | Prédiction d'annulations et de prix : comparaison Random Forest / XGBoost / Régression logistique avec cross-validation | Python · Scikit-learn · XGBoost · Pandas |
 | 👥 | [**Segmentation client – Analyse Factorielle Multiple**](https://github.com/Aichadia) | Profilage de consommateurs par MFA + clustering → identification de segments actionnables | R · FactoMineR · Clustering |
-| 📈 | [**Modélisation probabiliste du comportement d'achat**](https://github.com/Aichadia) | Modèles Poisson-Gamma et Binomiale négative pour modéliser la CLV et les lois inter-achat | Python · Lifetimes · Probabilistic Modeling |
+| 📈 | [**Modélisation probabiliste du comportement d'achat**](https://github.com/Aichadia/Valeur-Vie-Client-pareto-nbd) | Modèles Poisson-Gamma et Binomiale négative pour modéliser la CLV et les lois inter-achat | Python · Lifetimes · Probabilistic Modeling |
 
 ---
 
