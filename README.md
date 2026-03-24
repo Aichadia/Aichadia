@@ -36,7 +36,7 @@ Mon fil conducteur : **transformer des données complexes en décisions concrèt
 
 | # | Projet | Ce que j'ai fait | Stack |
 |---|--------|-----------------|-------|
-| 🧠 | [**NLP – Analyse d'avis bancaires**](https://github.com/Aichadia) | Pipeline NLP sur 34 000+ avis : scraping, classification thématique Zero-Shot (CamemBERT), analyse de sentiment → identification des drivers d'insatisfaction | Python · Selenium · HuggingFace · spaCy |
+| 🧠 | [**NLP – Analyse d'avis bancaires**](https://github.com/Aichadia/nlp-banking-complaints) | Pipeline NLP sur 34 000+ avis : scraping, classification thématique Zero-Shot (CamemBERT), analyse de sentiment → identification des drivers d'insatisfaction | Python · Selenium · HuggingFace · spaCy |
 | 🦠 | [**Économétrie – Impact COVID sur l'emploi**](https://github.com/Aichadia) | Analyse causale sur données de panel : DiD, Propensity Score Matching → mesure de l'effet sectoriel de la crise | R · Économétrie de panel · DiD · PSM |
 | 🏨 | [**ML – Prédiction hôtelière**](https://github.com/Aichadia) | Prédiction d'annulations et de prix : comparaison Random Forest / XGBoost / Régression logistique avec cross-validation | Python · Scikit-learn · XGBoost · Pandas |
 | 👥 | [**Segmentation client – Analyse Factorielle Multiple**](https://github.com/Aichadia) | Profilage de consommateurs par MFA + clustering → identification de segments actionnables | R · FactoMineR · Clustering |
